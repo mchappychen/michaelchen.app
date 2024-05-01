@@ -1,5 +1,5 @@
 # Overview
-Source code for my http://michaelchen.app website. It transcribes stuff.
+Source code for my http://michaelchen.app website. It transcribes stuff by making a call to https://github.com/sanchit-gandhi/whisper-jax using gradio client
 
 # Installation
 I run this on Ubuntu server in DigitalOcean. 
