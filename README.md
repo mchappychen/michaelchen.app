@@ -8,7 +8,7 @@ I run this on Ubuntu server in DigitalOcean.
 3. Do `pip install requirements.txt`
 
 
-#How to use
+# How to use
 You can run it manually with `streamlit run app.py`
 
 Or you can run it in the background with `nohup streamlit run app.py --server.port 80 &` (port 80 is http)
