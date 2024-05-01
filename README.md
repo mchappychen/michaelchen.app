@@ -1,5 +1,5 @@
 # Overview
-Source code for my michaelchen.app website. It transcribes stuff.
+Source code for my http://michaelchen.app website. It transcribes stuff.
 
 # Installation
 I run this on Ubuntu server in DigitalOcean. 
