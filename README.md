@@ -1,8 +1,8 @@
 # Overview
-Source code for my http://michaelchen.app website. It transcribes stuff by making a call to https://github.com/sanchit-gandhi/whisper-jax using gradio client
+Source code for my http://michaelchen.app website. It just has some random stuff.
 
 # Installation
-I run this on Ubuntu server in DigitalOcean. 
+I run this on Ubuntu server in DigitalOcean ($12/month). 
 1. Create a python virtual environment `python3 -m venv env .`
 2. Activate it with `source bin/activate`
 3. Do `pip install requirements.txt`
